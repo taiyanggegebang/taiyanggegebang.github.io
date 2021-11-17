@@ -1331,9 +1331,11 @@ a:hover,a:active {
 .pattern-center-sakura h1.cat-title,.pattern-center-sakura h1.entry-title,.single-center .single-header h1.entry-title {
     font-size:26px
 }
+/* top顶部 */
 }.site-header {
     width:100%;
     height:75px;
+    text-align: center;
     background:none;
     -webkit-transition:all .4s ease;
     transition:all .4s ease;
