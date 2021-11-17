@@ -1333,7 +1333,7 @@ a:hover,a:active {
 }
 /* top顶部 */
 }.site-header {
-    width:127%;
+    width:100%;
     height:75px;
     text-align: center;
     background:none;
