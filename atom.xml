@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2021-11-16T14:53:35.972Z</updated>
+  <updated>2021-11-17T05:32:47.305Z</updated>
   <id>/</id>
   
   <author>
@@ -17,24 +17,22 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hexo-Theme-Sakura</title>
-    <link href="/2018/12/12/Hexo-Theme-Sakura/"/>
-    <id>/2018/12/12/Hexo-Theme-Sakura/</id>
-    <published>2018-12-12T14:16:01.000Z</published>
-    <updated>2021-11-16T14:53:35.972Z</updated>
+    <title>Test</title>
+    <link href="/2021/11/17/Hexo-Theme-Sakura/"/>
+    <id>/2021/11/17/Hexo-Theme-Sakura/</id>
+    <published>2021-11-17T05:32:00.000Z</published>
+    <updated>2021-11-17T05:32:47.305Z</updated>
     
     <summary type="html">
     
-      hexo-sakura主题使用教程
+      test
     
     </summary>
     
-      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="test" scheme="/categories/test/"/>
     
     
-      <category term="web" scheme="/tags/web/"/>
-    
-      <category term="悦读" scheme="/tags/%E6%82%A6%E8%AF%BB/"/>
+      <category term="test" scheme="/tags/test/"/>
     
   </entry>
   
